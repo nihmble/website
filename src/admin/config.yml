@@ -1,6 +1,6 @@
 backend:
   name: github
-  # repo: nihmble/gridsome-template-posts
+  # repo: nihmble/website
 
 # when using the default proxy server port
 # npx netlify-cms-proxy-server
